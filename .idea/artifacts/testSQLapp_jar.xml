@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="testSQLapp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/testSQLapp_jar</output-path>
+    <root id="archive" name="testSQLapp.jar">
+      <element id="module-output" name="testSQLapp" />
+      <element id="extracted-dir" path="$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.23-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
